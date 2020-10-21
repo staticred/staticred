@@ -1,4 +1,4 @@
-![Darren>](https://staticred.com/img/darren_logo.png)
+![Darren>](https://staticred.com/img/og_image.png)
 
 # 👋🏻 I'm a human-focused people manager who likes to build things. 
 
